@@ -66,7 +66,7 @@ header {
   line-height: 1.5;
 }
 
-/* changed border size, style, and color */
+/* CHANGE: border size, style, and color */
 header .profile-image {
   margin-top: 50px;
   width: 150px;
@@ -76,7 +76,7 @@ header .profile-image {
   transition: all .5s;
 }
 
-/* increased scale and changed direction of rotation */
+/* CHANGE: increased scale and changed direction of rotation */
 header .profile-image:hover {
   transform: scale(1.5) rotate(-15deg);
 }
@@ -173,15 +173,11 @@ a.social:hover {
   clear: both;
 }
 
-/* Styles added for EXCEEDS EXPECTATIONS */
-.back-page-title {
-    margin-top: 100px;
-}
+/* CHANGE: Styles added for EXCEEDS EXPECTATIONS */
 
 .inline-image {
   margin: 5px 5px 5px 5px;
   float: left;    
-  /*width: 250px;*/
   height: 90px;
 }
 
